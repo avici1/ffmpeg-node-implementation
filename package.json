@@ -1,0 +1,27 @@
+{
+  "name": "ffmpeg-node-implementation",
+  "version": "1.0.0",
+  "description": "Converting audio files of 320kbps to any lower bitrate",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gal1l0/ffmpeg-node-implementation.git"
+  },
+  "keywords": [
+    "Audio",
+    "npm",
+    "ffmpeg"
+  ],
+  "author": "Alain Christian (gal1l0)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gal1l0/ffmpeg-node-implementation/issues"
+  },
+  "homepage": "https://github.com/gal1l0/ffmpeg-node-implementation#readme",
+  "dependencies": {
+    "node-ffmpeg": "0.0.0"
+  }
+}
